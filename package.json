@@ -1,0 +1,30 @@
+{
+  "name": "document-workflow",
+  "version": "1.0.0",
+  "description": "Framework for designing any kind of document workflows [ex: document signing, release document, onboarding, offloading, etc] controlled with RBAC + ABAC policies.",
+  "keywords": [
+    "Node.JS",
+    "MERN",
+    "Stack",
+    "RBAC",
+    "ABAC",
+    "PostgresSQL",
+    "React",
+    "Js"
+  ],
+  "homepage": "https://github.com/anonymousCoder-047/document-workflow#readme",
+  "bugs": {
+    "url": "https://github.com/anonymousCoder-047/document-workflow/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anonymousCoder-047/document-workflow.git"
+  },
+  "license": "GPL-3.0",
+  "author": "anonymousCoder-047",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
